@@ -1,3 +1,18 @@
 terraform init
 terraform plan
 terraform apply
+And Above 
+Ranjith commands
+
+Adding user into wheel group > usermod -aG wheel tom
+
+chmode -aG wheel mysql
+
+groups mysql
+
+usermod 2770 /home/linux
+
+adding group : groupadd lanquq
+usermod -g langauges mysql
+groups mysql
+
